@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Agrawal</h1>
 <h3 align="center">A passionate Competitive Programmer and enthusiast of AI and Machine Learning from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=competitive-programmer04&label=Profile%20views&color=0e75b6&style=flat" alt="competitive-programmer04" /> </p>
+   - 🌱 I’m currently learning **C++,Data Structures and Algorithms for competitive programming, python for machine learning and AI and also interested in learning  Javascript**
+   - Here you will get all of my solutions from various competitive programming patforms like codeforces,codechef and leetcode.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=competitive-programmer04" alt="competitive-programmer04" /></a> </p>
+   - 💬 Ask me about **various algorithms used in competitive programming, about machine learning and AI**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **C++,Data Structures and Algorithms for competitive programming, python for machine learning and AI and also interested in learning  Javascript**
-- Here you will get all of my solutions from various competitive programming patforms like codeforces,codechef and leetcode.
-
-- 💬 Ask me about **various algorithms used in competitive programming, about machine learning and AI**
-
-- 📫 How to reach me : **You can reach me at vaibhavagrawal562@gmail.com**
-- Looking forward to colloborate with code
+   - 📫 How to reach me : **You can reach me at vaibhavagrawal562@gmail.com**
+   - Looking forward to colloborate with code
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vaibhav agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav agrawal" height="30" width="40" /></a>
