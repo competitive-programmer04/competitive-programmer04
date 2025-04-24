@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Vaibhav Agrawal</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Agrawal</h1>
 <h3 align="center">A passionate Competitive Programmer and enthusiast of AI and Machine Learning from India</h3>
 
    - 🌱 I’m currently learning **C++,Data Structures and Algorithms for competitive programming, python for machine learning and AI and also interested in learning  Javascript**
