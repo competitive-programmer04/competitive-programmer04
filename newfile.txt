@@ -1,2 +1,0 @@
-This is my new file.
-It is my first new commit
